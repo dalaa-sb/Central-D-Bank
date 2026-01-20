@@ -22,4 +22,3 @@ A secure banking simulation system with AI features, encryption, and multi-curre
 ```bash
 git clone https://github.com/dalaa-sb/central-d-bank.git
 cd central-d-bank
-
