@@ -1,5 +1,5 @@
 # Central D Bank System
-
+**Important:** See [DISCLAIMER.md](DISCLAIMER.md) for important notices about this project.
 A secure banking simulation system with AI features, encryption, and multi-currency support.
 
 ## Features
