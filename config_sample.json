@@ -1,0 +1,28 @@
+{
+  "exchange_rates": {
+    "USD_to_EUR": 0.85,
+    "EUR_to_USD": 1.18,
+    "USD_to_GBP": 0.73,
+    "GBP_to_USD": 1.37,
+    "EUR_to_GBP": 0.86,
+    "GBP_to_EUR": 1.16,
+    "USD_to_AED": 3.67,
+    "AED_to_USD": 0.27,
+    "EUR_to_AED": 4.32,
+    "AED_to_EUR": 0.23,
+    "GBP_to_AED": 5.02,
+    "AED_to_GBP": 0.20
+  },
+  "anomaly_model_data": [
+    [100, 0],
+    [200, 1],
+    [50, 0],
+    [5000, 1],
+    [10000, 2],
+    [2000, 3]
+  ],
+  "rl_training_data": [
+    [0.1, 0.5],
+    [0.2, 0.3]
+  ]
+}
